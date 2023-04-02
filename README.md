@@ -18,7 +18,7 @@ Disclaimer: This has only been tested on iOS but should work on Android as well.
 
 1. Go to https://marcocanc.github.io/TouchTracker/ on your mobile device
 2. Press the Share button and then "Add to Homescreen"
-3. Film your device while interacting with the screen
+3. Open the app/bookmark and film your device while interacting with the screen
 4. When done, touch the screen with 3 fingers at the same time (might take a few tries). A window will open
 5. Transfer the file to your computer
 6. In AE, select "Run Script" and select the `touchtracker.jsx` file
