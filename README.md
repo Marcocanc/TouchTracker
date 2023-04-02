@@ -11,6 +11,9 @@ It outputs a json file that can be imported into AE with the included `.jsx` scr
 
 Say goodbye to poorly synced screen replacements with TouchTracker 🪄
 
+![touchtracker2](https://user-images.githubusercontent.com/1622982/229368354-6f784518-559e-4c80-a759-6a8ed7cc1b43.gif)
+
+
 ## Getting Started
 1. Go to https://marcocanc.github.io/TouchTracker/ on your mobile device
 2. Press the Share button and then "Add to Homescreen"
