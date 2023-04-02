@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/Marcocanc/TouchTracker/"><img width="500" src="https://user-images.githubusercontent.com/1622982/229356326-2d5336bd-03a5-4429-baa4-a2b4b7fa79ac.png" alt="TouchTracker" /></a><br />Green Screen Touch Screen Tracking for After Effects<br />
+	<a href="https://github.com/Marcocanc/TouchTracker/"><img width="500" src="https://user-images.githubusercontent.com/1622982/229364370-c2beb7c5-985b-4729-af42-7b378bf5ba6d.png" alt="TouchTracker" /></a><br />Green Screen Touch Screen Tracking for After Effects<br />
 </p>
 
 ## Intro
