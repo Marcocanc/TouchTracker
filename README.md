@@ -12,7 +12,7 @@ It outputs a json file that can be imported into AE with the included `.jsx` scr
 Say goodbye to poorly synced screen replacements with TouchTracker 🪄
 
 ## Getting Started
-1. Go to https://marco.sh/touchtracker/ on your mobile device
+1. Go to https://marcocanc.github.io/TouchTracker/ on your mobile device
 2. Press the Share button and then "Add to Homescreen"
 3. Film your device while interacting with the screen
 4. When done, touch the screen with 3 fingers at the same time (might take a few tries). A window will open
