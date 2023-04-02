@@ -34,7 +34,7 @@ class TrackingSession {
     }
 
     export() {
-        const name = "Greenscreen Recorder Export"
+        const name = "TouchTracker Export"
         const output = {
             name: name ,
             startTime: this.records[0].timestamp,
