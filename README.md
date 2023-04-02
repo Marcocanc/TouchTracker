@@ -1,2 +1,24 @@
-# TouchTracker
-Simple Green Screen Touchscreen Tracking for After Effects. 
+<p align="center">
+	<a href="https://github.com/Marcocanc/TouchTracker/"><img width="500" src="https://user-images.githubusercontent.com/1622982/229356326-2d5336bd-03a5-4429-baa4-a2b4b7fa79ac.png" alt="TouchTracker" /></a><br />Green Screen Touch Screen Tracking for After Effects<br />
+</p>
+
+## Intro
+Have you ever watched a movie where an actor uses their phone or tablet but the underlying animations just didn't feel right? I've seen plenty, so when the time came for us to film a video commercial for our app, I came up with the idea for TouchTracker to avoid having to manually track interactions and ensure perfect animations.
+
+## TouchTracker
+TouchTracker is a simple web app for mobile devices that displays a greenscreen and records all gestures performed on the screen.
+It outputs a json file that can be imported into AE with the included `.jsx` script. The script then generates a new composition with the exact screen resolution and imports each gesture as an animated "Null Object".
+
+Say goodbye to poorly synced screen replacements with TouchTracker 🪄
+
+## Getting Started
+1. Go to https://marco.sh/touchtracker/ on your mobile device
+2. Press the Share button and then "Add to Homescreen"
+3. Film your device while interacting with the screen
+4. When done, touch the screen with 3 fingers at the same time (might take a few tries). A window will open
+5. Transfer the file to your computer
+6. In AE, select "Run Script" and select the `touchtracker.jsx` file
+7. Select the file you have transferred from your mobile device
+8. A new comp should open up with the screen and null objects representing each gesture. 
+9. Perform a screen replacement on the video recording of your device
+
