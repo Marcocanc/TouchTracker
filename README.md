@@ -13,7 +13,6 @@ Say goodbye to poorly synced screen replacements with TouchTracker 🪄
 
 ![touchtracker2](https://user-images.githubusercontent.com/1622982/229368354-6f784518-559e-4c80-a759-6a8ed7cc1b43.gif)
 
-
 ## Getting Started
 1. Go to https://marcocanc.github.io/TouchTracker/ on your mobile device
 2. Press the Share button and then "Add to Homescreen"
@@ -24,4 +23,3 @@ Say goodbye to poorly synced screen replacements with TouchTracker 🪄
 7. Select the file you have transferred from your mobile device
 8. A new comp should open up with the screen and null objects representing each gesture. 
 9. Perform a screen replacement on the video recording of your device
-
