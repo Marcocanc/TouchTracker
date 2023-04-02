@@ -24,4 +24,4 @@ Disclaimer: This has only been tested on iOS but should work on Android as well.
 6. In AE, select "Run Script" and select the `touchtracker.jsx` file
 7. Select the file you have transferred from your mobile device
 8. A new comp should open up with the screen and null objects representing each gesture. 
-9. Perform a screen replacement on the video recording of your device
+9. Perform a screen replacement on the video recording of your device and sync the timing of your null object timeline to the video.
